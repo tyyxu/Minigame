@@ -20,6 +20,7 @@ Logs/
 *.pdb
 *.opendb
 *.VC.db
+*.vsidx
 
 # Unity Editor-generated files
 # This can be important for collaborative projects, as it contains settings specific to the editor environment.
