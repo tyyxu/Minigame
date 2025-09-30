@@ -301,7 +301,7 @@ MonoBehaviour:
   m_Pos:
     serializedVersion: 2
     x: 0
-    y: 850
+    y: 795
     width: 1954
     height: 504
   m_SerializedDataModeController:
@@ -345,7 +345,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 64}
     m_SelectedIDs: 12c50000
     m_LastClickedID: 50450
-    m_ExpandedIDs: 000000003cb3000000ca9a3bffffff7f
+    m_ExpandedIDs: 0000000062ac0000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -374,7 +374,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: 
+    m_ExpandedIDs: 0000000062ac0000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -453,8 +453,8 @@ MonoBehaviour:
     m_TextWithWhitespace: "Inspector\u200B"
   m_Pos:
     serializedVersion: 2
-    x: 1955
-    y: 79
+    x: 1956
+    y: 24
     width: 604
     height: 1275
   m_SerializedDataModeController:
@@ -503,7 +503,7 @@ MonoBehaviour:
   m_Pos:
     serializedVersion: 2
     x: 0
-    y: 79
+    y: 24
     width: 483
     height: 745
   m_SerializedDataModeController:
@@ -520,8 +520,8 @@ MonoBehaviour:
   m_SceneHierarchy:
     m_TreeViewState:
       scrollPos: {x: 0, y: 0}
-      m_SelectedIDs: a080ffff
-      m_LastClickedID: -32608
+      m_SelectedIDs: 
+      m_LastClickedID: 0
       m_ExpandedIDs: 70b1ffff
       m_RenameOverlay:
         m_UserAcceptedRename: 0
@@ -568,8 +568,8 @@ MonoBehaviour:
     m_TextWithWhitespace: "Scene\u200B"
   m_Pos:
     serializedVersion: 2
-    x: 484
-    y: 79
+    x: 485
+    y: 24
     width: 1469
     height: 745
   m_SerializedDataModeController:
@@ -1190,11 +1190,11 @@ MonoBehaviour:
   m_Rotation:
     m_Target: {x: -0.23313127, y: 0.69649893, z: -0.25884017, w: -0.6273346}
     speed: 2
-    m_Value: {x: -0.2362401, y: 0.6982762, z: -0.2654778, w: -0.6213876}
+    m_Value: {x: -0.23313126, y: 0.69649893, z: -0.25884017, w: -0.6273346}
   m_Size:
     m_Target: 1.3891976
     speed: 2
-    m_Value: 1.4546572
+    m_Value: 1.3891976
   m_Ortho:
     m_Target: 0
     speed: 2
