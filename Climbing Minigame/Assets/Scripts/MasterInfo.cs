@@ -9,6 +9,6 @@ public class MasterInfo : MonoBehaviour
 
  void Update()
     {
-        pointsDisplay.GetComponent<TMPro.TMP_Text>().text = "Points: " + points;
+        pointsDisplay.GetComponent<TMPro.TMP_Text>().text = "Gems: " + points;
     }
 }
