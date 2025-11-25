@@ -9,6 +9,8 @@ public class SegementGenerator : MonoBehaviour
     [SerializeField] bool creatingSegment = false;
     [SerializeField] int segmentNum;
 
+    public int distanceBetweenSegments;
+
 
     void Update()
     {
@@ -22,9 +24,9 @@ public class SegementGenerator : MonoBehaviour
 
     IEnumerator SegmentGen()
     {
-        segmentNum = Random.Range(0, 3);
+        segmentNum = Random.Range(0, 4);
         Instantiate(segment[segmentNum], new Vector3(0, 0, zPos), Quaternion.identity);
-        zPos += 50;
+        zPos += distanceBetweenSegments;
         yield return new WaitForSeconds(10);
         creatingSegment = false;
     }
